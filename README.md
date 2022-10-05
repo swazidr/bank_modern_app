@@ -1,2 +1,2 @@
 # bank_modern_app
-Moder UI/UX website with react js... Use vite for installing
+Modern UI/UX website with react js... Use vite for installing
