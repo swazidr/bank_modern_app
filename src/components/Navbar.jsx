@@ -1,4 +1,8 @@
-import React from 'react'
+import React, {useState} from 'react'
+
+import { close, logo, menu } from '../assets';
+import { navLinks } from '../constance';
+
 
 const Navbar = () => {
   return (
